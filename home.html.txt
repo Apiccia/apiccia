@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage E-commerce</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">IlTuoLogo</div>
+        <nav>
+            <a href="home.html">Home</a>
+            <a href="catalogo.html">Catalogo</a>
+            <a href="offerte.html">Offerte</a>
+            <a href="carrello.html">Carrello</a>
+            <a href="contatti.html">Contatti</a>
+            <a href="privacy.html">Privacy</a>
+            <a href="termini.html">Termini e condizioni</a>
+            <a href="faq.html">FAQ</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Benvenuti nel nostro negozio!</h1>
+        <p>Scopri le migliori offerte sui nostri prodotti.</p>
+        <button onclick="location.href='catalogo.html'">Esplora ora</button>
+    </section>
+
+    <section class="chi-siamo">
+        <h2>Chi Siamo</h2>
+        <p>Benvenuti nel nostro negozio! Siamo un'azienda dedicata a offrire i migliori prodotti ai nostri clienti. Il nostro obiettivo è fornire qualità e soddisfazione.</p>
+    </section>
+
+    <footer>
+        <p>Contatti | Privacy | Termini e condizioni</p>
+    </footer>
+</body>
+</html>
+

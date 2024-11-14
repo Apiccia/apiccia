@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogo Prodotti</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Catalogo Prodotti</h1>
+    </header>
+    <main>
+        <p>Questa è la pagina del catalogo. Qui saranno visualizzati i prodotti.</p>
+    </main>
+    <footer>
+        <p>Contatti | Privacy | Termini e condizioni</p>
+    </footer>
+</body>
+</html>

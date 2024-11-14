@@ -1,0 +1,106 @@
+/* Importa un font personalizzato */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Stili di base */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f9;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e1e2d;
+    color: white;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header .logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ff6600;
+}
+
+header nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+    padding: 8px 12px;
+    transition: background-color 0.3s ease;
+}
+
+header nav a:hover {
+    background-color: #ff6600;
+    border-radius: 5px;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    background: url('hero-image.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.hero button {
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hero button:hover {
+    background-color: #e05500;
+}
+
+.chi-siamo {
+    padding: 40px;
+    text-align: center;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.chi-siamo h2 {
+    color: #1e1e2d;
+    margin-bottom: 10px;
+}
+
+.chi-siamo p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #1e1e2d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+footer p a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}

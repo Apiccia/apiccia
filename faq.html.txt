@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - Domande Frequenti</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>FAQ - Domande Frequenti</h1>
+    </header>
+    <main>
+        <h2>Come posso acquistare un prodotto?</h2>
+        <p>Puoi acquistare un prodotto aggiungendolo al carrello e procedendo al checkout.</p>
+        <h2>Quali sono i metodi di pagamento accettati?</h2>
+        <p>Accettiamo pagamenti tramite carta di credito, PayPal e bonifico bancario.</p>
+        <h2>Posso restituire un prodotto?</h2>
+        <p>Sì, è possibile restituire i prodotti entro 30 giorni dall'acquisto.</p>
+    </main>
+    <footer>
+        <p>Contatti | Privacy | Termini e condizioni</p>
+    </footer>
+</body>
+</html>
