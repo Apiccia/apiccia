@@ -32,13 +32,13 @@
             <div class="prodotto">
                 <img src="prodotto1.jpg" alt="Prodotto 1">
                 <h3>Prodotto 1</h3>
-                <p>€29.99</p>
+                <p>â‚¬29.99</p>
                 <button>Aggiungi al Carrello</button>
             </div>
             <div class="prodotto">
                 <img src="prodotto2.jpg" alt="Prodotto 2">
                 <h3>Prodotto 2</h3>
-                <p>€49.99</p>
+                <p>â‚¬49.99</p>
                 <button>Aggiungi al Carrello</button>
             </div>
             <!-- Aggiungi altri prodotti qui -->
