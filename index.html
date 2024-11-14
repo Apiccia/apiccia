@@ -6,6 +6,18 @@
     <title>Homepage E-commerce</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const buttons = document.querySelectorAll(".prodotto button");
+        buttons.forEach(button => {
+            button.addEventListener("click", function() {
+                alert("Prodotto aggiunto al carrello!");
+            });
+        });
+    });
+</script>
+
 <body>
     <!-- Header -->
     <header>
