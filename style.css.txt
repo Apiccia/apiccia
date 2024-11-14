@@ -79,3 +79,18 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+.catalogo, .dettagli-prodotto {
+    padding: 20px;
+    text-align: center;
+}
+
+.catalogo h1, .dettagli-prodotto h1 {
+    margin-bottom: 20px;
+}
+
+.dettagli-prodotto img {
+    width: 50%;
+    max-width: 300px;
+    margin: 10px 0;
+}
